@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on position at QA Automation Engineer<br>🌱 I’m currently learning JS, NodeJS, React, NestJS<br>⚡ I'm like play the video games, online, in partyes
+🔭 I’m currently working on position at QA Automation Engineer<br>🌱 I’m currently learning JS, NodeJS, React, C#, Unity<br>⚡ I'm like play the video games, online, in partyes
 
 
 ## 🌐 Socials:
